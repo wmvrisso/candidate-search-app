@@ -4,8 +4,8 @@ const Nav = () => {
     <div>
       <h1>Navigation Bar</h1>
       <ul>
-        <li><a href="/">Candidate Search</a></li>
-        <li><a href="/savedcandidates">Saved Candidates</a></li>
+        <li><a href="/">Home</a></li>
+        <li><a href="/savedcandidates">Potential Candidates</a></li>
       </ul>
     </div>
   )
