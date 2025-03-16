@@ -66,7 +66,11 @@ const CandidateSearch: React.FC = () => {
         <h1>Candidate Search</h1>
         {currentCandidate && (
           <>
-            <img src={currentCandidate.avatar_url} alt="Octocat" />
+            <img
+              src={currentCandidate.avatar_url}
+              alt="Octocat"
+              style={{ width: "200px", height: "200px", borderRadius: "50%" }}
+            />
             <h2>{currentCandidate.login}</h2>
             <p>
               Location: {currentCandidate.location || "No location provided"}
