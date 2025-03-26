@@ -10,8 +10,8 @@ URL of the app https://candidate-search-app-lr96.onrender.com
 
 ## Screenshots
 
-![Candidate Search Page](./assets/screenshot-candidate-search.png)
-![Potential Candidates List](./assets/screenshot-potential-candidates.png)
+![Candidate Search Page](src/assets/screenshot-candidate-search.png)
+![Potential Candidates List](src/assets/screenshot-potential-candidates.png)
 
 ## Contributing
 
