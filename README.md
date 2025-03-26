@@ -6,7 +6,12 @@ This is a candidate search application that calls the GitHub API and renders dat
 
 ## Usage
 
-URL of the app http://localhost:5177/
+URL of the app https://candidate-search-app-lr96.onrender.com
+
+## Screenshots
+
+![Candidate Search Page](./assets/screenshot-candidate-search.png)
+![Potential Candidates List](./assets/screenshot-potential-candidates.png)
 
 ## Contributing
 
